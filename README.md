@@ -1,5 +1,5 @@
 # tuoterekisteri-xml
-XML-tuoterekisterisovellus
+CRUD XML-tuoterekisterisovellus
 
 tuotteet.xml
 
